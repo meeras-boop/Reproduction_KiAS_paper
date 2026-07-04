@@ -1,0 +1,312 @@
+{
+  "patient_001": {
+    "patient_id": "P001",
+    "transcript": [
+      ["Ellie", "Hello, how are you feeling today?"],
+      ["Patient", "I feel completely hopeless. I can't see any point in anything anymore."],
+      ["Ellie", "I'm sorry to hear that. Tell me more about how you're feeling."],
+      ["Patient", "I've lost all interest in things I used to enjoy. Music, reading, nothing matters."],
+      ["Ellie", "How has your sleep been lately?"],
+      ["Patient", "I wake up at 3 AM every single night and can't fall back asleep. My mind just races."],
+      ["Ellie", "What about your appetite?"],
+      ["Patient", "I don't eat much anymore. Food has no taste. I've lost about 15 pounds."],
+      ["Ellie", "Do you have any energy?"],
+      ["Patient", "None. I'm completely exhausted all the time. Even showering takes all my energy."],
+      ["Ellie", "Are you having thoughts of suicide?"],
+      ["Patient", "Yes. I think about it constantly. I just want the pain to stop."],
+      ["Ellie", "Do you have a plan to harm yourself?"],
+      ["Patient", "I've been thinking about it, but I haven't made a plan yet."],
+      ["Ellie", "Can you concentrate on things?"],
+      ["Patient", "No, my mind is so foggy. I can't focus on anything for more than a few minutes."],
+      ["Ellie", "Do you feel worthless?"],
+      ["Patient", "Yes, I'm a burden to everyone. They would be better off without me."],
+      ["Ellie", "How long have you felt this way?"],
+      ["Patient", "About 6 months now, but it's getting much worse."],
+      ["Ellie", "Have you seen a doctor about this?"],
+      ["Patient", "No, this is the first time I'm talking about it."]
+    ],
+    "metadata": {
+      "gender": "M",
+      "age": 35,
+      "phq8_score": 24,
+      "diagnosis": "Severe Depression with Suicidal Ideation",
+      "interview_duration": 1100
+    }
+  },
+  "patient_002": {
+    "patient_id": "P002",
+    "transcript": [
+      ["Ellie", "What brings you here today?"],
+      ["Patient", "I can't stop worrying. It's destroying my life."],
+      ["Ellie", "Tell me more about your worries."],
+      ["Patient", "Everything. Work, health, my family. I can't turn my mind off."],
+      ["Ellie", "How is your sleep?"],
+      ["Patient", "I lie awake for hours, heart racing, thinking about everything that could go wrong."],
+      ["Ellie", "Do you have trouble concentrating?"],
+      ["Patient", "Yes, my mind is always somewhere else. I can't focus at work at all."],
+      ["Ellie", "Do you ever feel depressed?"],
+      ["Patient", "Sometimes. I feel sad because I can't control my anxiety."],
+      ["Ellie", "What physical symptoms do you experience?"],
+      ["Patient", "My heart pounds, I sweat, I feel like I can't breathe sometimes."],
+      ["Ellie", "Do you have thoughts of self-harm?"],
+      ["Patient", "No, but sometimes I wish I could just escape my mind."],
+      ["Ellie", "How long has this been happening?"],
+      ["Patient", "Years, but it's getting worse. I can barely function."],
+      ["Ellie", "Have you been diagnosed with anything?"],
+      ["Patient", "I was told I have generalized anxiety disorder."],
+      ["Ellie", "Are you on medication?"],
+      ["Patient", "I tried it, but it made me feel worse, so I stopped."]
+    ],
+    "metadata": {
+      "gender": "F",
+      "age": 28,
+      "phq8_score": 19,
+      "diagnosis": "Severe Generalized Anxiety Disorder",
+      "interview_duration": 950
+    }
+  },
+  "patient_003": {
+    "patient_id": "P003",
+    "transcript": [
+      ["Ellie", "How have you been feeling lately?"],
+      ["Patient", "I've been all over the place. Up and down."],
+      ["Ellie", "Tell me about the 'up' periods."],
+      ["Patient", "I feel on top of the world. I can't sleep, I have so much energy."],
+      ["Ellie", "What about the 'down' periods?"],
+      ["Patient", "I crash hard. I can't get out of bed. I feel completely worthless."],
+      ["Ellie", "How is your sleep during these times?"],
+      ["Patient", "When I'm up, I sleep 2-3 hours. When I'm down, I sleep 12+ hours."],
+      ["Ellie", "Do you have trouble concentrating?"],
+      ["Patient", "When I'm up, my mind races. When I'm down, I can't think at all."],
+      ["Ellie", "Have you had thoughts of suicide?"],
+      ["Patient", "During the down periods, yes. I feel like such a failure."],
+      ["Ellie", "Do you have a diagnosis?"],
+      ["Patient", "Bipolar disorder. I was diagnosed 5 years ago."],
+      ["Ellie", "Are you on medication?"],
+      ["Patient", "Yes, but I don't think it's working well anymore."],
+      ["Ellie", "Do you have support?"],
+      ["Patient", "My family tries, but they don't understand what I'm going through."],
+      ["Ellie", "What helps you cope?"],
+      ["Patient", "Nothing really. I just try to survive each day."]
+    ],
+    "metadata": {
+      "gender": "M",
+      "age": 42,
+      "phq8_score": 22,
+      "diagnosis": "Bipolar Disorder Type II",
+      "interview_duration": 1050
+    }
+  },
+  "patient_004": {
+    "patient_id": "P004",
+    "transcript": [
+      ["Ellie", "How are you doing today?"],
+      ["Patient", "I'm struggling. I can't stop thinking about what happened."],
+      ["Ellie", "Tell me about what you're thinking about."],
+      ["Patient", "I was in a car accident 6 months ago. I keep reliving it."],
+      ["Ellie", "How is your sleep?"],
+      ["Patient", "I have terrible nightmares. I wake up screaming."],
+      ["Ellie", "Do you have trouble concentrating?"],
+      ["Patient", "Yes, I can't focus on anything. I'm always on edge."],
+      ["Ellie", "Do you feel depressed?"],
+      ["Patient", "Yes, I feel hopeless. I don't see how things will get better."],
+      ["Ellie", "What about your appetite?"],
+      ["Patient", "I barely eat. I've lost weight."],
+      ["Ellie", "Do you have thoughts of suicide?"],
+      ["Patient", "Sometimes. The pain is just too much."],
+      ["Ellie", "Do you have support?"],
+      ["Patient", "My sister is supportive, but she lives far away."],
+      ["Ellie", "Have you been diagnosed?"],
+      ["Patient", "Yes, PTSD and depression."],
+      ["Ellie", "Are you on medication?"],
+      ["Patient", "Yes, but it's not really helping."]
+    ],
+    "metadata": {
+      "gender": "F",
+      "age": 34,
+      "phq8_score": 23,
+      "diagnosis": "PTSD with Depression",
+      "interview_duration": 980
+    }
+  },
+  "patient_005": {
+    "patient_id": "P005",
+    "transcript": [
+      ["Ellie", "How are you feeling today?"],
+      ["Patient", "I've been feeling down for a while now."],
+      ["Ellie", "Tell me more about it."],
+      ["Patient", "I just feel sad and tired all the time. Nothing feels fun anymore."],
+      ["Ellie", "How is your sleep?"],
+      ["Patient", "I have trouble falling asleep. I lie awake thinking."],
+      ["Ellie", "What about your appetite?"],
+      ["Patient", "I'm eating okay, but I don't really enjoy food."],
+      ["Ellie", "Do you have energy?"],
+      ["Patient", "I'm tired a lot, but I can still function."],
+      ["Ellie", "Do you have thoughts of suicide?"],
+      ["Patient", "No, nothing like that."],
+      ["Ellie", "Can you concentrate?"],
+      ["Patient", "Sometimes I have trouble focusing, but it's not too bad."],
+      ["Ellie", "Do you feel worthless?"],
+      ["Patient", "Sometimes, but I try not to think about it."],
+      ["Ellie", "How long has this been going on?"],
+      ["Patient", "About 3 months now."],
+      ["Ellie", "Have you seen a doctor?"],
+      ["Patient", "No, I thought I could handle it on my own."]
+    ],
+    "metadata": {
+      "gender": "M",
+      "age": 30,
+      "phq8_score": 16,
+      "diagnosis": "Moderate Depression",
+      "interview_duration": 850
+    }
+  },
+  "patient_006": {
+    "patient_id": "P006",
+    "transcript": [
+      ["Ellie", "How are you doing?"],
+      ["Patient", "I'm okay, just a bit stressed."],
+      ["Ellie", "What's stressing you out?"],
+      ["Patient", "Work is busy and I have some deadlines."],
+      ["Ellie", "How is your sleep?"],
+      ["Patient", "I sleep okay, but sometimes I wake up worrying."],
+      ["Ellie", "Do you have trouble concentrating?"],
+      ["Patient", "Sometimes, when I'm really stressed."],
+      ["Ellie", "Do you feel depressed?"],
+      ["Patient", "No, not really. Just anxious."],
+      ["Ellie", "How's your appetite?"],
+      ["Patient", "Normal."],
+      ["Ellie", "Do you have support?"],
+      ["Patient", "Yes, my partner and friends."],
+      ["Ellie", "What helps you relax?"],
+      ["Patient", "Exercise and meditation help."]
+    ],
+    "metadata": {
+      "gender": "F",
+      "age": 26,
+      "phq8_score": 9,
+      "diagnosis": "Mild Anxiety",
+      "interview_duration": 600
+    }
+  },
+  "patient_007": {
+    "patient_id": "P007",
+    "transcript": [
+      ["Ellie", "How are you feeling today?"],
+      ["Patient", "I'm doing much better, thanks for asking."],
+      ["Ellie", "That's great to hear! Tell me about it."],
+      ["Patient", "The medication is really helping. I have more energy now."],
+      ["Ellie", "How is your sleep?"],
+      ["Patient", "I'm sleeping much better, about 7 hours a night."],
+      ["Ellie", "What about your mood?"],
+      ["Patient", "I'm feeling hopeful again. I can see a future."],
+      ["Ellie", "Do you have thoughts of suicide?"],
+      ["Patient", "No, not at all. I'm glad I got help."],
+      ["Ellie", "Can you concentrate?"],
+      ["Patient", "Yes, I'm back to work and doing well."],
+      ["Ellie", "Do you have support?"],
+      ["Patient", "Yes, my family and therapist have been wonderful."],
+      ["Ellie", "What helped you recover?"],
+      ["Patient", "The right medication and therapy. And my family's support."]
+    ],
+    "metadata": {
+      "gender": "M",
+      "age": 33,
+      "phq8_score": 5,
+      "diagnosis": "Depression - In Remission",
+      "interview_duration": 720
+    }
+  },
+  "patient_008": {
+    "patient_id": "P008",
+    "transcript": [
+      ["Ellie", "Welcome. How are you today?"],
+      ["Patient", "I don't know why I'm here. Nothing helps anymore."],
+      ["Ellie", "Tell me more about that."],
+      ["Patient", "I feel worthless, like I'm a burden to everyone I know."],
+      ["Ellie", "Have you been sleeping well?"],
+      ["Patient", "I can't sleep, I just lie awake all night thinking."],
+      ["Ellie", "What about eating?"],
+      ["Patient", "I have to force myself to eat, food has no taste."],
+      ["Ellie", "Have you ever been diagnosed with depression?"],
+      ["Patient", "Yes, 2 years ago."],
+      ["Ellie", "Did you take medication?"],
+      ["Patient", "I stopped, they didn't help and made me feel worse."],
+      ["Ellie", "Do you have thoughts of self-harm?"],
+      ["Patient", "Sometimes I wish I didn't wake up."],
+      ["Ellie", "That's serious. Do you have a safety plan?"],
+      ["Patient", "No."],
+      ["Ellie", "Where are you from?"],
+      ["Patient", "Florida."],
+      ["Ellie", "Do you have friends?"],
+      ["Patient", "No, I've pushed everyone away."],
+      ["Ellie", "Have you lost interest in things you used to enjoy?"],
+      ["Patient", "Everything. I used to love painting, now I can't even pick up a brush."]
+    ],
+    "metadata": {
+      "gender": "F",
+      "age": 45,
+      "phq8_score": 22,
+      "diagnosis": "Severe Depression",
+      "interview_duration": 1180
+    }
+  },
+  "patient_009": {
+    "patient_id": "P009",
+    "transcript": [
+      ["Ellie", "Hi, how are you feeling?"],
+      ["Patient", "I'm doing alright, just tired from work."],
+      ["Ellie", "Tell me about your sleep."],
+      ["Patient", "I sleep okay, about 6 hours a night."],
+      ["Ellie", "Have you been feeling sad or down?"],
+      ["Patient", "Sometimes, but not too bad."],
+      ["Ellie", "How's your appetite?"],
+      ["Patient", "Normal, I eat three meals a day."],
+      ["Ellie", "Do you feel nervous or anxious?"],
+      ["Patient", "Yes, especially about my health."],
+      ["Ellie", "Have you had any thoughts of suicide?"],
+      ["Patient", "No, never."],
+      ["Ellie", "Do you enjoy things you used to?"],
+      ["Patient", "Yes, I still like hanging out with friends."],
+      ["Ellie", "Have you been diagnosed with anything?"],
+      ["Patient", "No, I'm healthy."]
+    ],
+    "metadata": {
+      "gender": "M",
+      "age": 35,
+      "phq8_score": 8,
+      "diagnosis": "Mild Anxiety",
+      "interview_duration": 650
+    }
+  },
+  "patient_010": {
+    "patient_id": "P010",
+    "transcript": [
+      ["Ellie", "Hello, how are you doing today?"],
+      ["Patient", "I'm really struggling. I can't stop crying."],
+      ["Ellie", "I'm sorry to hear that. Tell me more."],
+      ["Patient", "Everything feels hopeless. I don't see a future."],
+      ["Ellie", "How's your sleep been?"],
+      ["Patient", "I sleep too much, like 12 hours and still tired."],
+      ["Ellie", "What about eating?"],
+      ["Patient", "I've been eating everything, I've gained 20 pounds."],
+      ["Ellie", "Have you been diagnosed with depression?"],
+      ["Patient", "Yes, 5 years ago. It comes and goes."],
+      ["Ellie", "Are you on medication?"],
+      ["Patient", "Yes, but it's not working anymore."],
+      ["Ellie", "Do you have suicidal thoughts?"],
+      ["Patient", "Yes, I think about ending it sometimes."],
+      ["Ellie", "Do you have a plan?"],
+      ["Patient", "No, just thoughts."],
+      ["Ellie", "Do you have support?"],
+      ["Patient", "My partner tries to help, but I feel alone."]
+    ],
+    "metadata": {
+      "gender": "F",
+      "age": 39,
+      "phq8_score": 23,
+      "diagnosis": "Recurrent Major Depression",
+      "interview_duration": 1090
+    }
+  }
+}
